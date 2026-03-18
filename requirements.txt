@@ -1,0 +1,11 @@
+streamlit
+requests
+sqlalchemy
+mysql-connector-python
+python-dotenv
+openai
+pandas
+pymysql
+pytesseract pillow
+
+cryptography  # it is for MySql workbench , to store the results 

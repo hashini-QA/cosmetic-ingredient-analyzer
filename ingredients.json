@@ -1,0 +1,2102 @@
+{
+  "water": {
+    "inci_name": "Aqua",
+    "category": "Solvent",
+    "benefits": "Base solvent used to dissolve other ingredients",
+    "risk": "Safe",
+    "comedogenic": 0
+  },
+  "glycerin": {
+    "inci_name": "Glycerin",
+    "category": "Humectant",
+    "benefits": "Draws moisture into the skin",
+    "risk": "Low",
+    "comedogenic": 0
+  },
+  "niacinamide": {
+    "inci_name": "Niacinamide",
+    "category": "Vitamin",
+    "benefits": "Brightens skin and supports barrier",
+    "risk": "Low",
+    "comedogenic": 0
+  },
+  "hyaluronic acid": {
+    "inci_name": "Hyaluronic Acid",
+    "category": "Humectant",
+    "benefits": "Deep hydration and plumping",
+    "risk": "Safe",
+    "comedogenic": 0
+  },
+  "salicylic acid": {
+    "inci_name": "Salicylic Acid",
+    "category": "Exfoliant",
+    "benefits": "Unclogs pores and treats acne",
+    "risk": "Medium",
+    "comedogenic": 0
+  },
+  "lactic acid": {
+    "inci_name": "Lactic Acid",
+    "category": "AHA",
+    "benefits": "Gentle exfoliation and hydration",
+    "risk": "Medium",
+    "comedogenic": 0
+  },
+  "glycolic acid": {
+    "inci_name": "Glycolic Acid",
+    "category": "AHA",
+    "benefits": "Chemical exfoliation",
+    "risk": "Medium",
+    "comedogenic": 0
+  },
+  "tocopherol": {
+    "inci_name": "Tocopherol",
+    "category": "Antioxidant",
+    "benefits": "Protects against free radicals",
+    "risk": "Low",
+    "comedogenic": 2
+  },
+  "panthenol": {
+    "inci_name": "Panthenol",
+    "category": "Vitamin",
+    "benefits": "Soothes and repairs skin",
+    "risk": "Low",
+    "comedogenic": 0
+  },
+  "ceramide np": {
+    "inci_name": "Ceramide NP",
+    "category": "Skin-identical lipid",
+    "benefits": "Restores skin barrier",
+    "risk": "Safe",
+    "comedogenic": 0
+  },
+  "propylene_glycol_1": {
+    "inci_name": "Propylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from propylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "propylene_glycol_2": {
+    "inci_name": "Propylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from propylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "propylene_glycol_3": {
+    "inci_name": "Propylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from propylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "propylene_glycol_4": {
+    "inci_name": "Propylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from propylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "propylene_glycol_5": {
+    "inci_name": "Propylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from propylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "propylene_glycol_6": {
+    "inci_name": "Propylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from propylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "propylene_glycol_7": {
+    "inci_name": "Propylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from propylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "propylene_glycol_8": {
+    "inci_name": "Propylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from propylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "propylene_glycol_9": {
+    "inci_name": "Propylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from propylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "propylene_glycol_10": {
+    "inci_name": "Propylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from propylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "propylene_glycol_11": {
+    "inci_name": "Propylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from propylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "propylene_glycol_12": {
+    "inci_name": "Propylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from propylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "propylene_glycol_13": {
+    "inci_name": "Propylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from propylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "propylene_glycol_14": {
+    "inci_name": "Propylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from propylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "butylene_glycol_1": {
+    "inci_name": "Butylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from butylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "butylene_glycol_2": {
+    "inci_name": "Butylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from butylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "butylene_glycol_3": {
+    "inci_name": "Butylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from butylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "butylene_glycol_4": {
+    "inci_name": "Butylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from butylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "butylene_glycol_5": {
+    "inci_name": "Butylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from butylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "butylene_glycol_6": {
+    "inci_name": "Butylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from butylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "butylene_glycol_7": {
+    "inci_name": "Butylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from butylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "butylene_glycol_8": {
+    "inci_name": "Butylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from butylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "butylene_glycol_9": {
+    "inci_name": "Butylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from butylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "butylene_glycol_10": {
+    "inci_name": "Butylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from butylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "butylene_glycol_11": {
+    "inci_name": "Butylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from butylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "butylene_glycol_12": {
+    "inci_name": "Butylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from butylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "butylene_glycol_13": {
+    "inci_name": "Butylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from butylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "butylene_glycol_14": {
+    "inci_name": "Butylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from butylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "pentylene_glycol_1": {
+    "inci_name": "Pentylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from pentylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "pentylene_glycol_2": {
+    "inci_name": "Pentylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from pentylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "pentylene_glycol_3": {
+    "inci_name": "Pentylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from pentylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "pentylene_glycol_4": {
+    "inci_name": "Pentylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from pentylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "pentylene_glycol_5": {
+    "inci_name": "Pentylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from pentylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "pentylene_glycol_6": {
+    "inci_name": "Pentylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from pentylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "pentylene_glycol_7": {
+    "inci_name": "Pentylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from pentylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "pentylene_glycol_8": {
+    "inci_name": "Pentylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from pentylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "pentylene_glycol_9": {
+    "inci_name": "Pentylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from pentylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "pentylene_glycol_10": {
+    "inci_name": "Pentylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from pentylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "pentylene_glycol_11": {
+    "inci_name": "Pentylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from pentylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "pentylene_glycol_12": {
+    "inci_name": "Pentylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from pentylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "pentylene_glycol_13": {
+    "inci_name": "Pentylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from pentylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "pentylene_glycol_14": {
+    "inci_name": "Pentylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from pentylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "hexylene_glycol_1": {
+    "inci_name": "Hexylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from hexylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "hexylene_glycol_2": {
+    "inci_name": "Hexylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from hexylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "hexylene_glycol_3": {
+    "inci_name": "Hexylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from hexylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "hexylene_glycol_4": {
+    "inci_name": "Hexylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from hexylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "hexylene_glycol_5": {
+    "inci_name": "Hexylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from hexylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "hexylene_glycol_6": {
+    "inci_name": "Hexylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from hexylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "hexylene_glycol_7": {
+    "inci_name": "Hexylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from hexylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "hexylene_glycol_8": {
+    "inci_name": "Hexylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from hexylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "hexylene_glycol_9": {
+    "inci_name": "Hexylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from hexylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "hexylene_glycol_10": {
+    "inci_name": "Hexylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from hexylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "hexylene_glycol_11": {
+    "inci_name": "Hexylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from hexylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "hexylene_glycol_12": {
+    "inci_name": "Hexylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from hexylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "hexylene_glycol_13": {
+    "inci_name": "Hexylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from hexylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "hexylene_glycol_14": {
+    "inci_name": "Hexylene Glycol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from hexylene glycol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "caprylic/capric_triglyceride_1": {
+    "inci_name": "Caprylic/Capric Triglyceride",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from caprylic/capric triglyceride",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "caprylic/capric_triglyceride_2": {
+    "inci_name": "Caprylic/Capric Triglyceride",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from caprylic/capric triglyceride",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "caprylic/capric_triglyceride_3": {
+    "inci_name": "Caprylic/Capric Triglyceride",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from caprylic/capric triglyceride",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "caprylic/capric_triglyceride_4": {
+    "inci_name": "Caprylic/Capric Triglyceride",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from caprylic/capric triglyceride",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "caprylic/capric_triglyceride_5": {
+    "inci_name": "Caprylic/Capric Triglyceride",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from caprylic/capric triglyceride",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "caprylic/capric_triglyceride_6": {
+    "inci_name": "Caprylic/Capric Triglyceride",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from caprylic/capric triglyceride",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "caprylic/capric_triglyceride_7": {
+    "inci_name": "Caprylic/Capric Triglyceride",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from caprylic/capric triglyceride",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "caprylic/capric_triglyceride_8": {
+    "inci_name": "Caprylic/Capric Triglyceride",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from caprylic/capric triglyceride",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "caprylic/capric_triglyceride_9": {
+    "inci_name": "Caprylic/Capric Triglyceride",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from caprylic/capric triglyceride",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "caprylic/capric_triglyceride_10": {
+    "inci_name": "Caprylic/Capric Triglyceride",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from caprylic/capric triglyceride",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "caprylic/capric_triglyceride_11": {
+    "inci_name": "Caprylic/Capric Triglyceride",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from caprylic/capric triglyceride",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "caprylic/capric_triglyceride_12": {
+    "inci_name": "Caprylic/Capric Triglyceride",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from caprylic/capric triglyceride",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "caprylic/capric_triglyceride_13": {
+    "inci_name": "Caprylic/Capric Triglyceride",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from caprylic/capric triglyceride",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "caprylic/capric_triglyceride_14": {
+    "inci_name": "Caprylic/Capric Triglyceride",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from caprylic/capric triglyceride",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "shea_butter_1": {
+    "inci_name": "Shea Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from shea butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "shea_butter_2": {
+    "inci_name": "Shea Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from shea butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "shea_butter_3": {
+    "inci_name": "Shea Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from shea butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "shea_butter_4": {
+    "inci_name": "Shea Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from shea butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "shea_butter_5": {
+    "inci_name": "Shea Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from shea butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "shea_butter_6": {
+    "inci_name": "Shea Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from shea butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "shea_butter_7": {
+    "inci_name": "Shea Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from shea butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "shea_butter_8": {
+    "inci_name": "Shea Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from shea butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "shea_butter_9": {
+    "inci_name": "Shea Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from shea butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "shea_butter_10": {
+    "inci_name": "Shea Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from shea butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "shea_butter_11": {
+    "inci_name": "Shea Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from shea butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "shea_butter_12": {
+    "inci_name": "Shea Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from shea butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "shea_butter_13": {
+    "inci_name": "Shea Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from shea butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "shea_butter_14": {
+    "inci_name": "Shea Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from shea butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocoa_butter_1": {
+    "inci_name": "Cocoa Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocoa butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocoa_butter_2": {
+    "inci_name": "Cocoa Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocoa butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocoa_butter_3": {
+    "inci_name": "Cocoa Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocoa butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocoa_butter_4": {
+    "inci_name": "Cocoa Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocoa butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocoa_butter_5": {
+    "inci_name": "Cocoa Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocoa butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocoa_butter_6": {
+    "inci_name": "Cocoa Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocoa butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocoa_butter_7": {
+    "inci_name": "Cocoa Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocoa butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocoa_butter_8": {
+    "inci_name": "Cocoa Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocoa butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocoa_butter_9": {
+    "inci_name": "Cocoa Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocoa butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocoa_butter_10": {
+    "inci_name": "Cocoa Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocoa butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocoa_butter_11": {
+    "inci_name": "Cocoa Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocoa butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocoa_butter_12": {
+    "inci_name": "Cocoa Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocoa butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocoa_butter_13": {
+    "inci_name": "Cocoa Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocoa butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocoa_butter_14": {
+    "inci_name": "Cocoa Butter",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocoa butter",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "jojoba_oil_1": {
+    "inci_name": "Jojoba Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from jojoba oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "jojoba_oil_2": {
+    "inci_name": "Jojoba Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from jojoba oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "jojoba_oil_3": {
+    "inci_name": "Jojoba Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from jojoba oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "jojoba_oil_4": {
+    "inci_name": "Jojoba Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from jojoba oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "jojoba_oil_5": {
+    "inci_name": "Jojoba Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from jojoba oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "jojoba_oil_6": {
+    "inci_name": "Jojoba Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from jojoba oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "jojoba_oil_7": {
+    "inci_name": "Jojoba Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from jojoba oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "jojoba_oil_8": {
+    "inci_name": "Jojoba Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from jojoba oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "jojoba_oil_9": {
+    "inci_name": "Jojoba Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from jojoba oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "jojoba_oil_10": {
+    "inci_name": "Jojoba Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from jojoba oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "jojoba_oil_11": {
+    "inci_name": "Jojoba Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from jojoba oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "jojoba_oil_12": {
+    "inci_name": "Jojoba Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from jojoba oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "jojoba_oil_13": {
+    "inci_name": "Jojoba Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from jojoba oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "jojoba_oil_14": {
+    "inci_name": "Jojoba Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from jojoba oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "argan_oil_1": {
+    "inci_name": "Argan Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from argan oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "argan_oil_2": {
+    "inci_name": "Argan Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from argan oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "argan_oil_3": {
+    "inci_name": "Argan Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from argan oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "argan_oil_4": {
+    "inci_name": "Argan Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from argan oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "argan_oil_5": {
+    "inci_name": "Argan Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from argan oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "argan_oil_6": {
+    "inci_name": "Argan Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from argan oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "argan_oil_7": {
+    "inci_name": "Argan Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from argan oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "argan_oil_8": {
+    "inci_name": "Argan Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from argan oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "argan_oil_9": {
+    "inci_name": "Argan Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from argan oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "argan_oil_10": {
+    "inci_name": "Argan Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from argan oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "argan_oil_11": {
+    "inci_name": "Argan Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from argan oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "argan_oil_12": {
+    "inci_name": "Argan Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from argan oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "argan_oil_13": {
+    "inci_name": "Argan Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from argan oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "argan_oil_14": {
+    "inci_name": "Argan Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from argan oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sunflower_seed_oil_1": {
+    "inci_name": "Sunflower Seed Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sunflower seed oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sunflower_seed_oil_2": {
+    "inci_name": "Sunflower Seed Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sunflower seed oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sunflower_seed_oil_3": {
+    "inci_name": "Sunflower Seed Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sunflower seed oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sunflower_seed_oil_4": {
+    "inci_name": "Sunflower Seed Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sunflower seed oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sunflower_seed_oil_5": {
+    "inci_name": "Sunflower Seed Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sunflower seed oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sunflower_seed_oil_6": {
+    "inci_name": "Sunflower Seed Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sunflower seed oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sunflower_seed_oil_7": {
+    "inci_name": "Sunflower Seed Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sunflower seed oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sunflower_seed_oil_8": {
+    "inci_name": "Sunflower Seed Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sunflower seed oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sunflower_seed_oil_9": {
+    "inci_name": "Sunflower Seed Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sunflower seed oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sunflower_seed_oil_10": {
+    "inci_name": "Sunflower Seed Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sunflower seed oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sunflower_seed_oil_11": {
+    "inci_name": "Sunflower Seed Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sunflower seed oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sunflower_seed_oil_12": {
+    "inci_name": "Sunflower Seed Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sunflower seed oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sunflower_seed_oil_13": {
+    "inci_name": "Sunflower Seed Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sunflower seed oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sunflower_seed_oil_14": {
+    "inci_name": "Sunflower Seed Oil",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sunflower seed oil",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "dimethicone_1": {
+    "inci_name": "Dimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from dimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "dimethicone_2": {
+    "inci_name": "Dimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from dimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "dimethicone_3": {
+    "inci_name": "Dimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from dimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "dimethicone_4": {
+    "inci_name": "Dimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from dimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "dimethicone_5": {
+    "inci_name": "Dimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from dimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "dimethicone_6": {
+    "inci_name": "Dimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from dimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "dimethicone_7": {
+    "inci_name": "Dimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from dimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "dimethicone_8": {
+    "inci_name": "Dimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from dimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "dimethicone_9": {
+    "inci_name": "Dimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from dimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "dimethicone_10": {
+    "inci_name": "Dimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from dimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "dimethicone_11": {
+    "inci_name": "Dimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from dimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "dimethicone_12": {
+    "inci_name": "Dimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from dimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "dimethicone_13": {
+    "inci_name": "Dimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from dimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "dimethicone_14": {
+    "inci_name": "Dimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from dimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclopentasiloxane_1": {
+    "inci_name": "Cyclopentasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclopentasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclopentasiloxane_2": {
+    "inci_name": "Cyclopentasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclopentasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclopentasiloxane_3": {
+    "inci_name": "Cyclopentasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclopentasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclopentasiloxane_4": {
+    "inci_name": "Cyclopentasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclopentasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclopentasiloxane_5": {
+    "inci_name": "Cyclopentasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclopentasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclopentasiloxane_6": {
+    "inci_name": "Cyclopentasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclopentasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclopentasiloxane_7": {
+    "inci_name": "Cyclopentasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclopentasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclopentasiloxane_8": {
+    "inci_name": "Cyclopentasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclopentasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclopentasiloxane_9": {
+    "inci_name": "Cyclopentasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclopentasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclopentasiloxane_10": {
+    "inci_name": "Cyclopentasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclopentasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclopentasiloxane_11": {
+    "inci_name": "Cyclopentasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclopentasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclopentasiloxane_12": {
+    "inci_name": "Cyclopentasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclopentasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclopentasiloxane_13": {
+    "inci_name": "Cyclopentasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclopentasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclopentasiloxane_14": {
+    "inci_name": "Cyclopentasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclopentasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclohexasiloxane_1": {
+    "inci_name": "Cyclohexasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclohexasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclohexasiloxane_2": {
+    "inci_name": "Cyclohexasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclohexasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclohexasiloxane_3": {
+    "inci_name": "Cyclohexasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclohexasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclohexasiloxane_4": {
+    "inci_name": "Cyclohexasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclohexasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclohexasiloxane_5": {
+    "inci_name": "Cyclohexasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclohexasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclohexasiloxane_6": {
+    "inci_name": "Cyclohexasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclohexasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclohexasiloxane_7": {
+    "inci_name": "Cyclohexasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclohexasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclohexasiloxane_8": {
+    "inci_name": "Cyclohexasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclohexasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclohexasiloxane_9": {
+    "inci_name": "Cyclohexasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclohexasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclohexasiloxane_10": {
+    "inci_name": "Cyclohexasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclohexasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclohexasiloxane_11": {
+    "inci_name": "Cyclohexasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclohexasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclohexasiloxane_12": {
+    "inci_name": "Cyclohexasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclohexasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclohexasiloxane_13": {
+    "inci_name": "Cyclohexasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclohexasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cyclohexasiloxane_14": {
+    "inci_name": "Cyclohexasiloxane",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cyclohexasiloxane",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "amodimethicone_1": {
+    "inci_name": "Amodimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from amodimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "amodimethicone_2": {
+    "inci_name": "Amodimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from amodimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "amodimethicone_3": {
+    "inci_name": "Amodimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from amodimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "amodimethicone_4": {
+    "inci_name": "Amodimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from amodimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "amodimethicone_5": {
+    "inci_name": "Amodimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from amodimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "amodimethicone_6": {
+    "inci_name": "Amodimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from amodimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "amodimethicone_7": {
+    "inci_name": "Amodimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from amodimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "amodimethicone_8": {
+    "inci_name": "Amodimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from amodimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "amodimethicone_9": {
+    "inci_name": "Amodimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from amodimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "amodimethicone_10": {
+    "inci_name": "Amodimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from amodimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "amodimethicone_11": {
+    "inci_name": "Amodimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from amodimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "amodimethicone_12": {
+    "inci_name": "Amodimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from amodimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "amodimethicone_13": {
+    "inci_name": "Amodimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from amodimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "amodimethicone_14": {
+    "inci_name": "Amodimethicone",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from amodimethicone",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "phenoxyethanol_1": {
+    "inci_name": "Phenoxyethanol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from phenoxyethanol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "phenoxyethanol_2": {
+    "inci_name": "Phenoxyethanol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from phenoxyethanol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "phenoxyethanol_3": {
+    "inci_name": "Phenoxyethanol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from phenoxyethanol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "phenoxyethanol_4": {
+    "inci_name": "Phenoxyethanol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from phenoxyethanol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "phenoxyethanol_5": {
+    "inci_name": "Phenoxyethanol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from phenoxyethanol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "phenoxyethanol_6": {
+    "inci_name": "Phenoxyethanol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from phenoxyethanol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "phenoxyethanol_7": {
+    "inci_name": "Phenoxyethanol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from phenoxyethanol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "phenoxyethanol_8": {
+    "inci_name": "Phenoxyethanol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from phenoxyethanol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "phenoxyethanol_9": {
+    "inci_name": "Phenoxyethanol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from phenoxyethanol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "phenoxyethanol_10": {
+    "inci_name": "Phenoxyethanol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from phenoxyethanol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "phenoxyethanol_11": {
+    "inci_name": "Phenoxyethanol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from phenoxyethanol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "phenoxyethanol_12": {
+    "inci_name": "Phenoxyethanol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from phenoxyethanol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "phenoxyethanol_13": {
+    "inci_name": "Phenoxyethanol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from phenoxyethanol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "phenoxyethanol_14": {
+    "inci_name": "Phenoxyethanol",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from phenoxyethanol",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "ethylhexylglycerin_1": {
+    "inci_name": "Ethylhexylglycerin",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from ethylhexylglycerin",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "ethylhexylglycerin_2": {
+    "inci_name": "Ethylhexylglycerin",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from ethylhexylglycerin",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "ethylhexylglycerin_3": {
+    "inci_name": "Ethylhexylglycerin",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from ethylhexylglycerin",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "ethylhexylglycerin_4": {
+    "inci_name": "Ethylhexylglycerin",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from ethylhexylglycerin",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "ethylhexylglycerin_5": {
+    "inci_name": "Ethylhexylglycerin",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from ethylhexylglycerin",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "ethylhexylglycerin_6": {
+    "inci_name": "Ethylhexylglycerin",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from ethylhexylglycerin",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "ethylhexylglycerin_7": {
+    "inci_name": "Ethylhexylglycerin",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from ethylhexylglycerin",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "ethylhexylglycerin_8": {
+    "inci_name": "Ethylhexylglycerin",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from ethylhexylglycerin",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "ethylhexylglycerin_9": {
+    "inci_name": "Ethylhexylglycerin",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from ethylhexylglycerin",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "ethylhexylglycerin_10": {
+    "inci_name": "Ethylhexylglycerin",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from ethylhexylglycerin",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "ethylhexylglycerin_11": {
+    "inci_name": "Ethylhexylglycerin",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from ethylhexylglycerin",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "ethylhexylglycerin_12": {
+    "inci_name": "Ethylhexylglycerin",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from ethylhexylglycerin",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "ethylhexylglycerin_13": {
+    "inci_name": "Ethylhexylglycerin",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from ethylhexylglycerin",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "ethylhexylglycerin_14": {
+    "inci_name": "Ethylhexylglycerin",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from ethylhexylglycerin",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_benzoate_1": {
+    "inci_name": "Sodium Benzoate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium benzoate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_benzoate_2": {
+    "inci_name": "Sodium Benzoate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium benzoate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_benzoate_3": {
+    "inci_name": "Sodium Benzoate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium benzoate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_benzoate_4": {
+    "inci_name": "Sodium Benzoate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium benzoate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_benzoate_5": {
+    "inci_name": "Sodium Benzoate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium benzoate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_benzoate_6": {
+    "inci_name": "Sodium Benzoate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium benzoate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_benzoate_7": {
+    "inci_name": "Sodium Benzoate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium benzoate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_benzoate_8": {
+    "inci_name": "Sodium Benzoate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium benzoate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_benzoate_9": {
+    "inci_name": "Sodium Benzoate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium benzoate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_benzoate_10": {
+    "inci_name": "Sodium Benzoate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium benzoate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_benzoate_11": {
+    "inci_name": "Sodium Benzoate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium benzoate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_benzoate_12": {
+    "inci_name": "Sodium Benzoate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium benzoate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_benzoate_13": {
+    "inci_name": "Sodium Benzoate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium benzoate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_benzoate_14": {
+    "inci_name": "Sodium Benzoate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium benzoate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "potassium_sorbate_1": {
+    "inci_name": "Potassium Sorbate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from potassium sorbate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "potassium_sorbate_2": {
+    "inci_name": "Potassium Sorbate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from potassium sorbate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "potassium_sorbate_3": {
+    "inci_name": "Potassium Sorbate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from potassium sorbate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "potassium_sorbate_4": {
+    "inci_name": "Potassium Sorbate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from potassium sorbate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "potassium_sorbate_5": {
+    "inci_name": "Potassium Sorbate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from potassium sorbate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "potassium_sorbate_6": {
+    "inci_name": "Potassium Sorbate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from potassium sorbate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "potassium_sorbate_7": {
+    "inci_name": "Potassium Sorbate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from potassium sorbate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "potassium_sorbate_8": {
+    "inci_name": "Potassium Sorbate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from potassium sorbate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "potassium_sorbate_9": {
+    "inci_name": "Potassium Sorbate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from potassium sorbate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "potassium_sorbate_10": {
+    "inci_name": "Potassium Sorbate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from potassium sorbate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "potassium_sorbate_11": {
+    "inci_name": "Potassium Sorbate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from potassium sorbate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "potassium_sorbate_12": {
+    "inci_name": "Potassium Sorbate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from potassium sorbate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "potassium_sorbate_13": {
+    "inci_name": "Potassium Sorbate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from potassium sorbate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "potassium_sorbate_14": {
+    "inci_name": "Potassium Sorbate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from potassium sorbate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocamidopropyl_betaine_1": {
+    "inci_name": "Cocamidopropyl Betaine",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocamidopropyl betaine",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocamidopropyl_betaine_2": {
+    "inci_name": "Cocamidopropyl Betaine",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocamidopropyl betaine",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocamidopropyl_betaine_3": {
+    "inci_name": "Cocamidopropyl Betaine",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocamidopropyl betaine",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocamidopropyl_betaine_4": {
+    "inci_name": "Cocamidopropyl Betaine",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocamidopropyl betaine",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocamidopropyl_betaine_5": {
+    "inci_name": "Cocamidopropyl Betaine",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocamidopropyl betaine",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocamidopropyl_betaine_6": {
+    "inci_name": "Cocamidopropyl Betaine",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocamidopropyl betaine",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocamidopropyl_betaine_7": {
+    "inci_name": "Cocamidopropyl Betaine",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocamidopropyl betaine",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocamidopropyl_betaine_8": {
+    "inci_name": "Cocamidopropyl Betaine",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocamidopropyl betaine",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocamidopropyl_betaine_9": {
+    "inci_name": "Cocamidopropyl Betaine",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocamidopropyl betaine",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocamidopropyl_betaine_10": {
+    "inci_name": "Cocamidopropyl Betaine",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocamidopropyl betaine",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocamidopropyl_betaine_11": {
+    "inci_name": "Cocamidopropyl Betaine",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocamidopropyl betaine",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocamidopropyl_betaine_12": {
+    "inci_name": "Cocamidopropyl Betaine",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocamidopropyl betaine",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocamidopropyl_betaine_13": {
+    "inci_name": "Cocamidopropyl Betaine",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocamidopropyl betaine",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "cocamidopropyl_betaine_14": {
+    "inci_name": "Cocamidopropyl Betaine",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from cocamidopropyl betaine",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_lauryl_sulfate_1": {
+    "inci_name": "Sodium Lauryl Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium lauryl sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_lauryl_sulfate_2": {
+    "inci_name": "Sodium Lauryl Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium lauryl sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_lauryl_sulfate_3": {
+    "inci_name": "Sodium Lauryl Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium lauryl sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_lauryl_sulfate_4": {
+    "inci_name": "Sodium Lauryl Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium lauryl sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_lauryl_sulfate_5": {
+    "inci_name": "Sodium Lauryl Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium lauryl sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_lauryl_sulfate_6": {
+    "inci_name": "Sodium Lauryl Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium lauryl sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_lauryl_sulfate_7": {
+    "inci_name": "Sodium Lauryl Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium lauryl sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_lauryl_sulfate_8": {
+    "inci_name": "Sodium Lauryl Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium lauryl sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_lauryl_sulfate_9": {
+    "inci_name": "Sodium Lauryl Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium lauryl sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_lauryl_sulfate_10": {
+    "inci_name": "Sodium Lauryl Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium lauryl sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_lauryl_sulfate_11": {
+    "inci_name": "Sodium Lauryl Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium lauryl sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_lauryl_sulfate_12": {
+    "inci_name": "Sodium Lauryl Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium lauryl sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_lauryl_sulfate_13": {
+    "inci_name": "Sodium Lauryl Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium lauryl sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_lauryl_sulfate_14": {
+    "inci_name": "Sodium Lauryl Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium lauryl sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_laureth_sulfate_1": {
+    "inci_name": "Sodium Laureth Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium laureth sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_laureth_sulfate_2": {
+    "inci_name": "Sodium Laureth Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium laureth sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_laureth_sulfate_3": {
+    "inci_name": "Sodium Laureth Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium laureth sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_laureth_sulfate_4": {
+    "inci_name": "Sodium Laureth Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium laureth sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_laureth_sulfate_5": {
+    "inci_name": "Sodium Laureth Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium laureth sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_laureth_sulfate_6": {
+    "inci_name": "Sodium Laureth Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium laureth sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_laureth_sulfate_7": {
+    "inci_name": "Sodium Laureth Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium laureth sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_laureth_sulfate_8": {
+    "inci_name": "Sodium Laureth Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium laureth sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_laureth_sulfate_9": {
+    "inci_name": "Sodium Laureth Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium laureth sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  },
+  "sodium_laureth_sulfate_10": {
+    "inci_name": "Sodium Laureth Sulfate",
+    "category": "Cosmetic ingredient",
+    "benefits": "Commonly used cosmetic ingredient derived from sodium laureth sulfate",
+    "risk": "Low",
+    "comedogenic": 1
+  }
+}
