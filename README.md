@@ -34,7 +34,7 @@ This project demonstrates real-world integration of:
 
 ## 🧠 System Architecture
 
-\`\`\`
+```
 User Upload (Image / Product)
         ↓
 Streamlit Web Application
@@ -50,7 +50,7 @@ AI Insights Generation
 Results Display + Chatbot
         ↓
 MySQL Database Storage
-\`\`\`
+```
 
 ---
 
@@ -78,7 +78,7 @@ MySQL Database Storage
 
 ## 📂 Project Structure
 
-\`\`\`
+```
 beauty-product-analyzer/
 │
 ├── app.py
@@ -105,29 +105,29 @@ beauty-product-analyzer/
 ├── ingredients.json
 ├── requirements.txt
 └── README.md
-\`\`\`
+```
 
 ---
 
 ## ⚙️ Installation & Setup
 
-\`\`\`bash
+```bash
 git clone https://github.com/yourusername/beauty-product-analyzer.git
 cd beauty-product-analyzer
-\`\`\`
+```
 
-\`\`\`bash
+```bash
 python -m venv venv
 venv\\Scripts\\activate
-\`\`\`
+```
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
-\`\`\`bash
+```bash
 python -m streamlit run app.py
-\`\`\`
+```
 
 ---
 
