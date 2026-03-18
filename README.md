@@ -1,198 +1,119 @@
-# cosmetic-ingredient-analyzer
-AI-powered beauty product analyzer using OCR, hybrid ingredient standardization, and LLM-based explainability to generate safety scores and personalized skincare insights from cosmetic products.
+# 🧴 Cosmetic Ingredient Analyzer
 
-
-## 🚀 Overview
-The **AI Beauty Product Ingredient Analyzer** is an intelligent web application that analyzes cosmetic product ingredients and evaluates their safety for different skin types.
-
-It combines **OCR (image-to-text)**, **Large Language Models (LLMs)**, and a **rule-based analysis engine** to deliver accurate, explainable, and user-friendly skincare insights.
-
-This project demonstrates real-world integration of:
-- AI (LLMs & NLP)
-- Computer Vision (OCR)
-- Backend data processing
-- Database integration
-- Interactive UI development
-
-> ⚠️ This is an academic prototype. Production-level deployment would require validated datasets, regulatory compliance, and external API integrations.
+A Streamlit-based web application that analyzes skincare product ingredients 
+using OCR, LLM normalization, and a curated ingredient safety database — 
+delivering personalized safety scores based on your skin type.
 
 ---
 
-## 🎯 Key Features
+## 🚀 Features
 
-- 📷 Extract ingredients directly from product images using OCR  
-- 🤖 Normalize ingredient names using LLMs  
-- 📊 Calculate safety score based on skin type  
-- 🧪 Compute comedogenic (pore-clogging) score  
-- ⚠️ Detect and flag high-risk ingredients  
-- 📋 Display detailed ingredient insights  
-- 🧠 Generate AI-powered explanations  
-- 💬 Provide chatbot-based interaction  
-- 🗄️ Store user data and results in MySQL  
+- 📸 **OCR Extraction** — Upload a product label image; Tesseract OCR extracts the ingredient text automatically
+- 🧠 **LLM Normalization** — OpenAI GPT normalizes raw OCR output into clean, standardized INCI ingredient names
+- 🗄️ **Ingredient Database** — Custom JSON database cross-referenced with Open Beauty Facts, covering safety risk levels, comedogenic scores, categories, and benefits
+- 📊 **Personalized Safety Scoring** — Calculates a safety score and average comedogenic rating tailored to your skin type (Oily, Dry, Sensitive, Normal, Combination)
+- ⚠️ **Flagged Ingredient Detection** — Highlights medium and high-risk ingredients with reasoning
+- 💬 **AI Skincare Chatbot** — Context-aware OpenAI assistant answers questions about the analyzed product
+- 💾 **MySQL Persistence** — Saves user profiles and analysis history via SQLAlchemy
 
 ---
 
-## 🧠 System Architecture
-
+## 🏗️ Architecture
 ```
-User Upload (Image / Product)
-        ↓
-Streamlit Web Application
-        ↓
-OCR (Tesseract)
-        ↓
-LLM Processing (Ingredient Normalization)
-        ↓
-Ingredient Analysis Engine
-        ↓
-AI Insights Generation
-        ↓
-Results Display + Chatbot
-        ↓
-MySQL Database Storage
-```
-
----
-
-## 🛠️ Technology Stack
-
-### Core
-- Python 3.10+
-- Streamlit
-- pandas, NumPy
-
-### AI & Processing
-- Tesseract OCR (Image → Text)
-- OpenAI / LLM APIs (Normalization, Insights, Chatbot)
-
-### Backend & Data
-- JSON (Ingredient dataset)
-- MySQL (Data storage)
-- SQLAlchemy / PyMySQL
-
-### MLOps (Extended)
-- Databricks (ML experimentation)
-- MLflow (Model tracking)
-
----
-
-## 📂 Project Structure
-
-```
-beauty-product-analyzer/
-│
-├── app.py
+├── app.py                  # Streamlit frontend & session management
 ├── backend/
-│   └── analyzer.py
-│
+│   └── analyzer.py         # Ingredient scoring & safety logic
 ├── services/
-│   ├── ocr.py
-│   ├── llm_normalizer.py
-│   ├── ai_insights.py
-│   └── chatbot.py
-│
+│   ├── ocr.py              # Tesseract OCR image processing
+│   ├── llm_normalizer.py   # OpenAI-based ingredient normalization
+│   ├── ai_insights.py      # GPT-generated product insights
+│   └── chatbot.py          # Context-aware skincare assistant
 ├── db/
-│   ├── mysql.py
-│   └── repo.py
-│
-├── pipelines/
-│   └── inference_pipeline.py
-│
-├── ml/
-│   ├── prepare_dataset.py
-│   └── train_model.py
-│
-├── ingredients.json
-├── requirements.txt
-└── README.md
+│   └── repo.py             # MySQL user & search history repository
+├── ingredients.json        # Curated ingredient safety database
+└── requirements.txt
 ```
 
 ---
 
-## ⚙️ Installation & Setup
+## ⚙️ Setup & Installation
 
+### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/beauty-product-analyzer.git
-cd beauty-product-analyzer
+git clone https://github.com/yourusername/ai-beauty-analyzer.git
+cd ai-beauty-analyzer
 ```
 
-```bash
-python -m venv venv
-venv\\Scripts\\activate
-```
-
+### 2. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
+### 3. Install Tesseract OCR
+- **Windows:** Download from [UB-Mannheim](https://github.com/UB-Mannheim/tesseract/wiki)
+- **Mac:** `brew install tesseract`
+- **Linux:** `sudo apt install tesseract-ocr`
+
+### 4. Configure environment variables
+Create a `.env` file in the root directory:
+```env
+OPENAI_API_KEY=your_openai_api_key
+MYSQL_USER=your_db_user
+MYSQL_PASSWORD=your_db_password
+MYSQL_HOST=localhost
+MYSQL_PORT=3306
+MYSQL_DB=beauty_ai
+```
+> ⚠️ **Never commit your `.env` file.** Add it to `.gitignore`.
+
+### 5. Run the app
 ```bash
-python -m streamlit run app.py
+streamlit run app.py
 ```
 
 ---
 
-## 📊 Output
+## 🧪 Service Testing
 
-The application provides:
-
-- **Safety Score (%)** – Overall product safety  
-- **Average Comedogenic Score** – Acne risk indicator  
-- **Flagged Ingredients** – Medium/High risk components  
-- **Ingredient Table** – Category, benefits, risk, comedogenic score  
-- **AI Insights** – Natural language explanation  
-- **Chatbot Interaction** – Follow-up Q&A  
+Before running the full application, individual services can be validated 
+independently to confirm OCR, database connectivity, and LLM normalization 
+are functioning correctly.
 
 ---
 
-## 🧪 Example
+## 🛠️ Tech Stack
 
-**Input:**
-\`\`\`
-Water, Cetyl Alcohol, Propylene Glycol, Sodium Lauryl Sulfate
-\`\`\`
-
-**Output:**
-- Safety Score: 82%  
-- Avg Comedogenic: 1.5  
-- Flagged: Sodium Lauryl Sulfate (Medium Risk)  
-
----
-
-## ⚠️ Limitations
-
-- Uses a locally created JSON dataset  
-- OCR accuracy depends on image quality  
-- LLM responses may vary slightly  
-- No external cosmetic APIs integrated  
+| Layer | Technology |
+|---|---|
+| Frontend | Streamlit |
+| OCR | Tesseract / Pytesseract |
+| LLM | OpenAI GPT (normalization + chatbot) |
+| Database | MySQL + SQLAlchemy |
+| Ingredient Data | Custom DB + Open Beauty Facts |
+| Language | Python 3.10+ |
 
 ---
 
-## 🔮 Future Enhancements
+## 📌 Important Notes
 
-- Barcode (UPC/EAN) product lookup  
-- External APIs (INCI / Open Beauty Facts)  
-- ML-based personalized recommendations  
-- Cloud deployment  
-- Full MLOps pipeline  
+- Add `.env` to your `.gitignore` before pushing to GitHub
+- The `ingredients.json` database is continuously expandable with new INCI entries
+- Safety scoring logic is customized per skin type — oily skin applies comedogenic 
+  penalties, sensitive skin penalizes risk-rated ingredients more heavily
+
+---
+
+## 🔮 Roadmap
+
+- [ ] Expand ingredient database via Open Beauty Facts API integration
+- [ ] Add allergen detection layer
+- [ ] Support multi-language OCR
+- [ ] REST API wrapper for third-party integration
+- [ ] Ingredient comparison across multiple products
 
 ---
 
 ## 👩‍💻 Author
 
-**Hashini Krishnamoorthy**
-
----
-
-## ⭐ Project Summary
-
-This project evolved from a **rule-based analyzer (v1.0)** to an **AI-powered system (v2.0)** integrating:
-
-- OCR-based extraction  
-- LLM-based processing  
-- AI insights and chatbot  
-- Database integration  
-- MLOps-ready architecture  
-
-It demonstrates strong capabilities in **AI application development, backend engineering, and system design**.
-
-EOF
+Built by Hashini Krishnamoorthy — MS Graduate | AI/ML Engineer  
+Email: hashinikrishnamoorthy246@gmail.com
